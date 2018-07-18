@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.container {
+  padding: 40px;
+}
+
+.links {
+  padding: 15px;
+  border-bottom: 1px solid #d5d5d5;
+}
+
+.content {
+  padding-top: 40px;
+}
